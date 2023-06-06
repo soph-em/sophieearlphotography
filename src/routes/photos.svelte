@@ -20,7 +20,7 @@
 		</li>
 		<li>
 			<img alt="view over bath city" src={bath} />
-			<div class="hidden">A view over Bath City</div>
+			<div class="hidden">Bath City</div>
 		</li>
 		<!-- </div> -->
 		<li>
@@ -33,7 +33,7 @@
 		</li>
 		<li class="bigger">
 			<img alt="a bridge lit blue at dusk" src={newcastle} />
-			<div class="hidden">Millennium Bridge, Newcaslte</div>
+			<div class="hidden">Millennium Bridge, Newcastle</div>
 		</li>
 		<li>
 			<img alt="people running up a hill toward a monument" src={penshaw} />
@@ -41,7 +41,7 @@
 		</li>
 		<li>
 			<img alt="view of sennen cove" src={sennen} />
-			<div class="hidden">View over Sennen Cove</div>
+			<div class="hidden">Sennen Cove</div>
 		</li>
 		<li class="bigger">
 			<img alt="5 people between pillars sihouetted on a landscape" src={silhouette} />
