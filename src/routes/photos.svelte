@@ -50,7 +50,7 @@
 
 <style>
 	.bigger {
-		height: 60vh !important;
+		height: 60vh;
 	}
 	ul {
 		display: flex;
@@ -72,5 +72,19 @@
 		min-width: 100%;
 		object-fit: cover;
 		vertical-align: bottom;
+	}
+
+	@media screen and (max-width: 500px) {
+		li {
+			max-width: vw;
+			height: auto;
+		}
+		img {
+			max-width: 100vw;
+		}
+		.bigger {
+			max-width: vw;
+			height: auto;
+		}
 	}
 </style>
