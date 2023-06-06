@@ -10,7 +10,7 @@
 <style>
 	section {
 		height: fit-content;
-		background-color: rgb(255, 246, 251);
+		background-color: rgb(246, 249, 255);
 		padding-top: 20px;
 		padding-bottom: 20px;
 	}

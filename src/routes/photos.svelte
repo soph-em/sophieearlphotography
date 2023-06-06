@@ -132,5 +132,8 @@
 			max-width: vw;
 			height: auto;
 		}
+		div {
+			font-size: medium;
+		}
 	}
 </style>
