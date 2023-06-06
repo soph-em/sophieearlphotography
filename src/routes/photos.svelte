@@ -136,4 +136,22 @@
 			font-size: medium;
 		}
 	}
+	@media (max-width: 1000px) {
+		li {
+			width: 100vw;
+			height: auto;
+		}
+		img {
+			width: 100vw;
+			height: auto;
+		}
+		.bigger {
+			max-width: 100vw;
+			height: auto;
+		}
+		div {
+			font-size: medium;
+			/* color: red; */
+		}
+	}
 </style>
