@@ -2,7 +2,7 @@
 	<h2 class="text-divider">About Me</h2>
 	<p>
 		Hi I'm Sophie. I'm based in the UK and I love travelling and photography. You will find mostly
-		landscape photography on my portfolio, however I also have experience in portfolio and wedding
+		landscape photography on my portfolio, however I also have experience in portrait and wedding
 		photography.
 	</p>
 </section>
