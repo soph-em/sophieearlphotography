@@ -5,6 +5,9 @@
 		landscape photography on my portfolio, however I also have experience in portrait and wedding
 		photography.
 	</p>
+	<p>
+		The easiest way to reach me is <a href="https://twitter.com/soph_m_e">my twitter</a>
+	</p>
 </section>
 
 <style>
