@@ -25,7 +25,7 @@
 	}
 	img {
 		max-width: 100%;
-		height: auto;
+		height: 100vh;
 	}
 	h1 {
 		color: white;
