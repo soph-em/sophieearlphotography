@@ -1,8 +1,5 @@
 <section>
 	<h2 class="text-divider">Contact</h2>
-	<p>
-		The easiest way to reach me is <a href="https://twitter.com/soph_m_e">my twitter</a>
-	</p>
 </section>
 
 <style>
